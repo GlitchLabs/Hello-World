@@ -1,3 +1,9 @@
 # hello-world
 what i am using to learn GitHub
 at the time of this I am 24 it is 12/16/17 I am taking my life in my own hands learning how to code and create. its the first day but I really want this lifestyle. I want a better life where I get paid to code. then I want to take it further and buy back my time learning how to use github is just a necessary step.
+
+Update01
+I am now, 26. The date is 09/14/20. I am still learning how to code,but I have decided first I want to be a software engineer not just a developer I want to engineer. I want to know, understand and utilize the math behind computers computing and software. I have an interview at a great company on October 5th and I am working toward this thang like its the one shot I will ever get!
+    At this point I was a software Engineer at North East Information Discovery Inc a small company with great minds and big hearts. I loved it. sadly I was let go in may because of Covid-19. I was depressed for a couple days, but not because I had just lost my job or my income but because those people felt like family. they gave me a shot that 22 other companies did not give me and they invested into me and I could not return the favor. I gained knowledge, friends, mentors and a security clearance! they laid a foundation that is will and is helping me launch myself into the defence industry and into a life far from the poverty and hardship I grew up in so for that I will always honor them and be greatful. 
+    My Goals with my life and this craft of coding is to learn all I can help advance this field become an expert and then share freely what I know to benifit someone poor boy or girl who is hungry for a better life and see coding as a way to get that while doing what they love to do. 
+    Currently I know C and I am teaching myself C++(self taught gotta love it) I can code functionally in C and I am learning OOP in C++
